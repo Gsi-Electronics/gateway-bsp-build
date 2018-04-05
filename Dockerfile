@@ -14,7 +14,7 @@ RUN apt-get update && \
                        git-core \
                        diffstat \
                        unzip \
-                       texinfo 
+                       texinfo \
                        gcc-multilib \
                        chrpath \
                        socat \
