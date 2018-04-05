@@ -29,7 +29,7 @@ RUN apt-get update && \
                        dosfstools \
                        mtools \
                        parted \
-                       syslinux 
+                       syslinux \
                        tree
 
 # Add "repo" tool (used by many Yocto-based projects)
